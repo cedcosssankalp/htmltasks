@@ -2,5 +2,7 @@
     <body>
         <h1>ADDINING IMAGE TO OUR WEBSITE</h1>
         <img src="/home/cedcoss/training/demo/download(1).png">
+        <br>
+        <a href="https://www.w3schools.com/" title="W3SCHOOL" style="">a link to another page</a><br>
     </body>
 </html>
